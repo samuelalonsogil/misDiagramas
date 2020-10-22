@@ -3,7 +3,7 @@
 ## La primera vez:
 
 - git init
-- <guardamos el fichero>
+- guardamos el fichero
 - git add .
 - git commit -m "mensaje"
 - git remote add origin "repositorio"
